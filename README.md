@@ -84,7 +84,7 @@ Para utilizar esta aplicación, se requiere un dispositivo Android con al menos 
 Descargue o clone el repositorio en su ordenador.
 
 ```
-git clone https://github.com/gherrada22/SexToys.git
+git clone https://github.com/gherrada22/SexToysMobile.git
 ```
 
 ## 👐 Contribuciones
